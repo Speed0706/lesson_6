@@ -1,4 +1,4 @@
-purchaseAmount = prompt("Введите сумму покупки в рублях:");/8520k
+purchaseAmount = prompt("Введите сумму покупки в рублях:");
 
 purchaseAmount = Number(purchaseAmount);
 
